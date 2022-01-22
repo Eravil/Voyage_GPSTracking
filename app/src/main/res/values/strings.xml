@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voyage</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="setting">Setting</string>
+</resources>
